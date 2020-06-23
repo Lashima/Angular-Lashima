@@ -1,5 +1,9 @@
-# angular-8-role-based-authorization-example
+angular-authorization-auth
 
-Angular 8 - Role Based Authorization Example with the Angular CLI
+here you can login with role : user and admin and give access to specific page
 
-For tutorial and live demo see https://jasonwatmore.com/post/2019/08/06/angular-8-role-based-authorization-tutorial-with-example
+
+
+
+
+*********LASHIMA NASREEN**********
